@@ -9,6 +9,17 @@
 
     <url>https://github.com/ningpp/mirror-eclipse-gef</url>
 
+    <name>mirror-eclipse-gef</name>
+    <description>mirror of eclipse gef. publish to Maven Central Repository.</description>
+
+    <developers>
+        <developer>
+            <id>eclipse-gef</id>
+            <name>eclipse-gef</name>
+            <url>https://github.com/eclipse/gef</url>
+        </developer>
+    </developers>
+
     <scm>
         <url>http://github.com/ningpp/mirror-eclipse-gef</url>
         <connection>scm:git:ssh://github.com/ningpp/mirror-eclipse-gef.git</connection>
